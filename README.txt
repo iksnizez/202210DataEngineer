@@ -13,3 +13,8 @@ population, and data storage.
 The delay from this section is from the pauses and will take about 200 seconds to
 complete with the 10second pause currently in the code. 
 
+
+*** The CSVs are only included as a quick review. The project was intended to show how 
+I would set up a database to store scraped data. THe database is the storage tool and 
+would be queried to get the needed data.
+
